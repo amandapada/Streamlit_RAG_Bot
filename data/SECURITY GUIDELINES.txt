@@ -1,0 +1,100 @@
+SECURITY GUIDELINES
+TechHub Lagos Office
+
+═══════════════════════════════════════════════════════════════
+
+EMERGENCY PROCEDURES
+
+Fire Emergency:
+- Upon hearing the fire alarm, evacuate immediately using the nearest stairwell.
+- DO NOT use elevators during emergencies.
+- Proceed to the designated assembly point in Parking Lot A.
+- Wait for clearance from the Emergency Response Team before re-entering the building.
+- Fire extinguishers are located near each stairwell on every floor.
+
+Medical Emergency:
+- Contact Security immediately at extension 999 or dial 0 from any desk phone.
+- First aid kits are available at reception and on each floor near the restrooms.
+- Trained first aiders are identified by badges and listed on notice boards.
+- For life-threatening emergencies, Security will contact Lagos State Emergency (112).
+
+Security Threat:
+- Report any suspicious activity, persons, or items to Security immediately.
+- Follow all instructions issued by Security personnel or management.
+- Lockdown or shelter-in-place procedures will be announced via the public address (PA) system.
+- Emergency contact email: security@techhub.com.ng.
+
+═══════════════════════════════════════════════════════════════
+
+BUILDING ACCESS CONTROL
+
+Staff Access:
+- Main entrance uses biometric (fingerprint) access for all staff, available 24/7.
+- Access cards and credentials must not be shared or loaned to anyone.
+- Staff may enter the building outside regular office hours using their access card.
+- Malfunctioning access cards or biometric issues must be reported to IT Support.
+
+Visitor Access:
+- All visitors must enter through the main reception only.
+- Visitors must sign in, present a valid ID, and wear a visible visitor badge at all times.
+- After 6:00 PM, all visitors must be escorted by their staff host.
+- Weekend visitors require written pre-approval from the relevant department head.
+
+Restricted Areas:
+- Server Room (Floor 6): IT staff only; biometric plus PIN required.
+- Executive Floor (Floor 7): Executives and authorized personnel only.
+- Loading Bay: Facilities staff and approved vendors only.
+- Any unauthorized access attempt will be logged and may result in disciplinary action.
+
+═══════════════════════════════════════════════════════════════
+
+LOST AND FOUND
+
+- Lost items should be reported to the Security desk on the ground floor.
+- Found items must be handed over to Security as soon as possible.
+- Items are held for 30 days before disposal or donation.
+- To claim an item, you must present a valid ID and accurately describe the item.
+- Contact: security@techhub.com.ng or extension 777 for enquiries.
+
+═══════════════════════════════════════════════════════════════
+
+DATA AND DEVICE SECURITY
+
+- Always lock your workstation when away from your desk (Windows + L or Ctrl + Cmd + Q on Mac).
+- Do not leave laptops, phones, or personal valuables unattended in open areas.
+- Confidential or sensitive documents must be stored in locked cabinets or shredded after use.
+- USB drives and external storage devices must be scanned and approved by IT before use on company systems.
+- Lost or stolen company devices (laptops, phones, tokens) must be reported immediately to IT and Security.
+- Avoid viewing sensitive information on screens in public or crowded areas; use privacy filters where necessary.
+- Never share passwords, one-time codes, or multi-factor authentication tokens with anyone.
+
+═══════════════════════════════════════════════════════════════
+
+CCTV AND MONITORING
+
+- CCTV cameras operate 24/7 in common areas, entrances, corridors, and parking lots.
+- Video footage is retained for 90 days for security and investigative purposes.
+- No cameras are installed in restrooms, prayer rooms, or private offices to respect privacy.
+- Requests to review footage must be approved by the Security Manager and HR.
+
+═══════════════════════════════════════════════════════════════
+
+VENDOR AND CONTRACTOR SECURITY
+
+- All vendors and contractors must sign in at reception and wear visitor or contractor badges.
+- Vendors working after hours must be pre-approved by Facilities and Security.
+- Vendors must be accompanied by a staff member in restricted or sensitive areas.
+- Removal of equipment, furniture, or IT hardware from the building requires a signed gate-pass and Security clearance.
+
+═══════════════════════════════════════════════════════════════
+
+INCIDENT REPORTING
+
+- All security incidents (e.g., theft, harassment, threats, vandalism, unauthorized access) must be reported to Security within 24 hours.
+- Anonymous reporting is available via security@techhub.com.ng with “CONFIDENTIAL” in the subject line.
+- All reported incidents are logged, investigated, and escalated where necessary.
+- Retaliation against staff who report incidents in good faith is strictly prohibited.
+
+═══════════════════════════════════════════════════════════════
+
+END OF DOCUMENT
